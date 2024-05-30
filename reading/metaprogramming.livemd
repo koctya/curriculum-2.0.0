@@ -312,7 +312,7 @@ quoted =
 Code.eval_quoted(quoted)
 ```
 
-To gain access to the variable, we can use `unquote` to evalate it into the quoted expression.
+To gain access to the variable, we can use `unquote` to evaluate it into the quoted expression.
 
 ```elixir
 a = 2
